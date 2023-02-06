@@ -21,3 +21,4 @@ pub mod verifier;
 
 pub mod sha256_stark;
 pub mod tree_stark;
+pub mod serialization;
